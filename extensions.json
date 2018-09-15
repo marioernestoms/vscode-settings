@@ -1,0 +1,232 @@
+[
+  {
+    "metadata": {
+      "id": "d4be9b84-09b5-42d9-83e3-a0135f3a807c",
+      "publisherId": "anthonydiametrix.ACF-Snippet",
+      "publisherDisplayName": "anthonydiametrix"
+    },
+    "name": "ACF-Snippet",
+    "publisher": "anthonydiametrix",
+    "version": "1.9.0"
+  },
+  {
+    "metadata": {
+      "id": "d3836729-9cc1-42c1-b2af-d50071f57d29",
+      "publisherId": "formulahendry.auto-close-tag",
+      "publisherDisplayName": "formulahendry"
+    },
+    "name": "auto-close-tag",
+    "publisher": "formulahendry",
+    "version": "0.5.6"
+  },
+  {
+    "metadata": {
+      "id": "697255a9-3f36-44c8-b084-d3b91edfb23a",
+      "publisherId": "HookyQR.beautify",
+      "publisherDisplayName": "HookyQR"
+    },
+    "name": "beautify",
+    "publisher": "HookyQR",
+    "version": "1.4.2"
+  },
+  {
+    "metadata": {
+      "id": "f583eafd-aa0d-4ccb-8f44-d1e610389660",
+      "publisherId": "CoenraadS.bracket-pair-colorizer",
+      "publisherDisplayName": "CoenraadS"
+    },
+    "name": "bracket-pair-colorizer",
+    "publisher": "CoenraadS",
+    "version": "1.0.59"
+  },
+  {
+    "metadata": {
+      "id": "e337c67b-55c2-4fef-8949-eb260e7fb7fd",
+      "publisherId": "Shan.code-settings-sync",
+      "publisherDisplayName": "Shan"
+    },
+    "name": "code-settings-sync",
+    "publisher": "Shan",
+    "version": "3.1.1"
+  },
+  {
+    "metadata": {
+      "id": "d0bfc4ab-1d3a-4487-8782-7cf6027b4fff",
+      "publisherId": "ms-vscode.csharp",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "csharp",
+    "publisher": "ms-vscode",
+    "version": "1.15.2"
+  },
+  {
+    "metadata": {
+      "id": "aae00486-7e92-42b3-91b0-2b419e4f3875",
+      "publisherId": "vincaslt.highlight-matching-tag",
+      "publisherDisplayName": "vincaslt"
+    },
+    "name": "highlight-matching-tag",
+    "publisher": "vincaslt",
+    "version": "0.4.4"
+  },
+  {
+    "metadata": {
+      "id": "0d1241e3-fa60-4f24-8f2a-6d7085677c48",
+      "publisherId": "ionutvmi.path-autocomplete",
+      "publisherDisplayName": "ionutvmi"
+    },
+    "name": "path-autocomplete",
+    "publisher": "ionutvmi",
+    "version": "1.12.0"
+  },
+  {
+    "metadata": {
+      "id": "044b4b31-2969-4af3-895d-855433b8b46d",
+      "publisherId": "felixfbecker.php-debug",
+      "publisherDisplayName": "felixfbecker"
+    },
+    "name": "php-debug",
+    "publisher": "felixfbecker",
+    "version": "1.12.5"
+  },
+  {
+    "metadata": {
+      "id": "5e69f001-f945-4c97-baf0-320d82a153b3",
+      "publisherId": "felixfbecker.php-intellisense",
+      "publisherDisplayName": "felixfbecker"
+    },
+    "name": "php-intellisense",
+    "publisher": "felixfbecker",
+    "version": "2.3.4"
+  },
+  {
+    "metadata": {
+      "id": "1a9300c9-36a6-44d1-9d09-ada3641b8727",
+      "publisherId": "felixfbecker.php-pack",
+      "publisherDisplayName": "felixfbecker"
+    },
+    "name": "php-pack",
+    "publisher": "felixfbecker",
+    "version": "1.0.2"
+  },
+  {
+    "metadata": {
+      "id": "b0a47156-9132-49a2-bebd-ed16d91b1fa6",
+      "publisherId": "ikappas.phpcs",
+      "publisherDisplayName": "ikappas"
+    },
+    "name": "phpcs",
+    "publisher": "ikappas",
+    "version": "1.0.5"
+  },
+  {
+    "metadata": {
+      "id": "96fa4707-6983-4489-b7c5-d5ffdfdcce90",
+      "publisherId": "esbenp.prettier-vscode",
+      "publisherDisplayName": "esbenp"
+    },
+    "name": "prettier-vscode",
+    "publisher": "esbenp",
+    "version": "1.6.1"
+  },
+  {
+    "metadata": {
+      "id": "e52bce95-a629-455f-8626-e7301b9e372a",
+      "publisherId": "robinbentley.sass-indented",
+      "publisherDisplayName": "robinbentley"
+    },
+    "name": "sass-indented",
+    "publisher": "robinbentley",
+    "version": "1.4.9"
+  },
+  {
+    "metadata": {
+      "id": "529697b9-b343-4b1c-ba2f-f5ef692132d4",
+      "publisherId": "ms-vscode.sublime-keybindings",
+      "publisherDisplayName": "ms-vscode"
+    },
+    "name": "sublime-keybindings",
+    "publisher": "ms-vscode",
+    "version": "4.0.0"
+  },
+  {
+    "metadata": {
+      "id": "4e44877c-1c8d-4f9c-ba86-1372d0fbeeb1",
+      "publisherId": "dracula-theme.theme-dracula",
+      "publisherDisplayName": "dracula-theme"
+    },
+    "name": "theme-dracula",
+    "publisher": "dracula-theme",
+    "version": "2.13.0"
+  },
+  {
+    "metadata": {
+      "id": "ce760cf8-0b51-49bd-ad0c-ad8a9f646773",
+      "publisherId": "gerane.Theme-Monokai",
+      "publisherDisplayName": "gerane"
+    },
+    "name": "Theme-Monokai",
+    "publisher": "gerane",
+    "version": "0.0.2"
+  },
+  {
+    "metadata": {
+      "id": "583b2b34-2c1e-4634-8c0b-0b82e283ea3a",
+      "publisherId": "dbaeumer.vscode-eslint",
+      "publisherDisplayName": "dbaeumer"
+    },
+    "name": "vscode-eslint",
+    "publisher": "dbaeumer",
+    "version": "1.5.0"
+  },
+  {
+    "metadata": {
+      "id": "9ccc1dd7-7ec4-4a46-bd4f-7d7b8b9d322a",
+      "publisherId": "robertohuertasm.vscode-icons",
+      "publisherDisplayName": "robertohuertasm"
+    },
+    "name": "vscode-icons",
+    "publisher": "robertohuertasm",
+    "version": "7.25.0"
+  },
+  {
+    "metadata": {
+      "id": "3fd25437-acd9-42d7-ab19-581a69ce2dd9",
+      "publisherId": "MS-CEINTL.vscode-language-pack-pt-BR",
+      "publisherDisplayName": "MS-CEINTL"
+    },
+    "name": "vscode-language-pack-pt-BR",
+    "publisher": "MS-CEINTL",
+    "version": "1.26.3"
+  },
+  {
+    "metadata": {
+      "id": "4602541b-ff86-4990-834e-31addbfb39d9",
+      "publisherId": "claudiosanches.woocommerce",
+      "publisherDisplayName": "claudiosanches"
+    },
+    "name": "woocommerce",
+    "publisher": "claudiosanches",
+    "version": "1.0.0"
+  },
+  {
+    "metadata": {
+      "id": "8d53876a-8931-4ab4-ba98-8b2f928347f2",
+      "publisherId": "hridoy.wordpress",
+      "publisherDisplayName": "hridoy"
+    },
+    "name": "wordpress",
+    "publisher": "hridoy",
+    "version": "1.0.1"
+  },
+  {
+    "metadata": {
+      "id": "13ff980c-43ba-4895-a124-c04f3cec5486",
+      "publisherId": "tungvn.wordpress-snippet",
+      "publisherDisplayName": "tungvn"
+    },
+    "name": "wordpress-snippet",
+    "publisher": "tungvn",
+    "version": "1.1.5"
+  }
+]

@@ -1,0 +1,52 @@
+{
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.formatOnPaste": true,
+    "editor.occurrencesHighlight": false,
+    "git.confirmSync": false,
+    "editor.wordWrap": "on",
+    "editor.insertSpaces": true,
+    "editor.tabSize": 4,
+    "editor.detectIndentation": true,
+    "phpcs.enable": true,
+    "phpcs.standard": "WordPress",
+    "phpcs.autoConfigSearch": false,
+    "emmet.triggerExpansionOnTab": true,
+    "workbench.colorTheme": "Monokai",
+    "window.zoomLevel": -1,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.editor.closeEmptyGroups": false,
+    "prettier.singleQuote": true,
+    "prettier.eslintIntegration": true,
+    "prettier.tabWidth": 2,
+    "editor.formatOnSave": true,
+    "editor.rulers": [
+        80
+    ],
+    "editor.minimap.enabled": false,
+    "editor.renderLineHighlight": "all",
+    "php.suggest.basic": false,
+    "editor.tokenColorCustomizations": {
+        "functions": "#57d6ef"
+    },
+    "workbench.iconTheme": "vscode-icons",
+    "auto-close-tag.activationOnLanguage": [
+        "xml",
+        "php",
+        "javascript",
+        "javascriptreact",
+        "vue",
+        "HTML (Eex)"
+    ],
+    "auto-close-tag.enableAutoCloseTag": true,
+    "auto-close-tag.enableAutoCloseSelfClosingTag": true,
+    "auto-close-tag.SublimeText3Mode": true,
+    "highlight-matching-tag.leftStyle": {
+        "borderWidth": "0 0 0 1px",
+        "borderStyle": "dotted",
+        "borderColor": "white",
+        "borderRadius": "5px"
+    },
+    "editor.fontSize": 12,
+    "terminal.integrated.rendererType": "dom"
+}
